@@ -57,9 +57,9 @@ python app.py
  
 #### Для созерцания итогов потех да забав молодецких с премудростью насторойте премудрость "DBeaver", совершив следующие деяния:
 1. Открыть  в DBeaver "Настройки соединения", укажите путь и нажмите "Настройки драйвера"
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Виуфмук_3.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API_DB/blob/main/DBeaver_3.png))
 2. В открывшемся окне "Редактировать драйвер SQLite" заполните форму по образцу
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/ВИуфмук_4.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/DBeaver_4.png)
 
 *Не велите казнить бояре ежели что не так!*
 
