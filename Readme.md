@@ -12,13 +12,18 @@
 
 Состоит премудрость из змеиной клинописью сотворенных писания самой премудрости, описание воспрошаний да менячитайки маркдауном писанной
 ```markdown
-├── app.py          
-├── schema.py      
+├── db_checking/
+|   ├── check_ping_db.py
+|   ├── insert_data_in_db.py
+|   ├── some_db.py
+|   └── structure_db.py    
+├── .gitignore
+├── app.py
+├── models.py         
 ├── README.md   
-├── main.py
-├── pyproject.toml
-├── README.md
-└── ux.lock
+├── requirements.txt
+├── schema.py
+└── user.db
 ```
    
 
@@ -44,11 +49,17 @@ python app.py
 ```
 Апосля запуска премудрости проверьте в браузере http://127.0.0.1:5000/graphql еёшний запуск
 
-Для потех да забав молодецких с премудростью в Postman совершите следующие деяния:
+#### Для потех да забав молодецких с премудростью в Postman совершите следующие деяния:
 1. создать в Postman новый запрос формата GraphQL
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API/Postman1.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman1.png)
 2. В созданном запросе в строку "Enter URL" вставьте http://127.0.0.1:5000/graphql , после чего должны подгрузиться запросы
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API/Postman2.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman2.png)
+ 
+#### Для созерцания итогов потех да забав молодецких с премудростью насторойте премудрость "DBeaver", совершив следующие деяния:
+1. Открыть  в DBeaver "Настройки соединения", укажите путь и нажмите "Настройки драйвера"
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Виуфмук_3.png)
+2. В открывшемся окне "Редактировать драйвер SQLite" заполните форму по образцу
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/ВИуфмук_4.png)
 
 *Не велите казнить бояре ежели что не так!*
 
